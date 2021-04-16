@@ -1,0 +1,2 @@
+# wind-hodograph
+This is a project carried out for one of the disciplines that I take in the master's degree, called Atmosphere Dynamics. The project has been delivered but can still be improved. It aims to create wind hyodograph curves from data collected in practical experiments. The data used were collected by Silva Dias et al. 2004 in her article "River breeze circulation in eastern Amazon: observations and modeling results Theoretical and Applied Climatology, V.78, 111-121)".
